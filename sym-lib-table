@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "ma12070p_amp_v1-rescue")(type "Legacy")(uri "${KIPRJMOD}/ma12070p_amp_v1-rescue.lib")(options "")(descr ""))
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "ma12070p_v1")(type "KiCad")(uri "${KIPRJMOD}/symbols/ma12070p_v1.kicad_sym")(options "")(descr ""))
 )
