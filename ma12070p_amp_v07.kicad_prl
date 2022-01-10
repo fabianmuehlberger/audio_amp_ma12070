@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffffeff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "ma12070p_amp_v06.kicad_prl",
+    "filename": "ma12070p_amp_v07.kicad_prl",
     "version": 3
   },
   "project": {
